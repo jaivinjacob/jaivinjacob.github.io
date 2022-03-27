@@ -2,8 +2,6 @@
 layout: home
 header:
   title: Crazy Enough To Think That I Can Change The World
-<!--   text: >
-    some texts here - something inspirational :) -->
   action: # action button is optional
     label: About Me
     url: '#about'
