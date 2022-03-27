@@ -48,13 +48,13 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Whatsapp Automation Using Python
+        text: Read and reply to messages in whatsapp easily, integrated with chatbot to make conversation on your behalf.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
+        url: 'https://github.com/jaivinjacob/Python'
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
