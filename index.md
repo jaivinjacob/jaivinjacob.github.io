@@ -14,8 +14,8 @@ sections:
     title: Hi, I'm Jaivin Jacob
     text: An enthusiastic Computer Engineer fuelled by a creative mind and human-like coding skills. Besides keeping myself updated with the recent technologies, I always try to learn new skills. On a venture to do my bit to change the world into a better place with the humble skill set I possess.
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Explore My Works
+        url: '#services'
         class: btn-light
 
   - type: services.html
@@ -23,10 +23,10 @@ sections:
     #background_style: bg-info
     title: My Projects
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Whatsapp Automation Using Python
+        text: Read and reply to messages in whatsapp easily, integrated with chatbot to make conversation on your behalf.
         icon: fa-gem text-info
-        url: https://startbootstrap.com/
+        url: https://github.com/jaivinjacob/Python
       - title: Ready to Ship
         text: You can use this theme as is, or you can make changes!
         icon: fa-paper-plane
