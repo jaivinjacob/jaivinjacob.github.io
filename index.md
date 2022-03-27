@@ -1,12 +1,11 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
-  text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+  title: Crazy Enough To Think That I Can Change The World
+<!--   text: >
+    some texts here - something inspirational :) -->
   action: # action button is optional
-    label: Find Out More
+    label: About Me
     url: '#about'
 
 
@@ -14,17 +13,17 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
-    actions:
+    title: Hi, I'm Jaivin Jacob
+    text: An enthusiastic Computer Engineer fuelled by a creative mind and human-like coding skills. Besides keeping myself updated with the recent technologies, I always try to learn new skills. On a venture to do my bit to change the world into a better place with the humble skill set I possess.
+<!--     actions:
       - title: Get Started!
         url: '#page-top'
-        class: btn-light
+        class: btn-light -->
 
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: My Projects
     services:
       - title: Sturdy Templates
         text: Our templates are updated regularly so they don't break.
