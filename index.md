@@ -2,8 +2,8 @@
 layout: home
 header:
   title: Crazy Enough To Think That I Can Change The World
-<!--   text: >
-    some texts here - something inspirational :) -->
+  text: >
+    some texts here - something inspirational :)
   action: # action button is optional
     label: About Me
     url: '#about'
@@ -15,10 +15,10 @@ sections:
     background_style: bg-primary
     title: Hi, I'm Jaivin Jacob
     text: An enthusiastic Computer Engineer fuelled by a creative mind and human-like coding skills. Besides keeping myself updated with the recent technologies, I always try to learn new skills. On a venture to do my bit to change the world into a better place with the humble skill set I possess.
-<!--     actions:
+    actions:
       - title: Get Started!
         url: '#page-top'
-        class: btn-light -->
+        class: btn-light
 
   - type: services.html
     section_id: services
