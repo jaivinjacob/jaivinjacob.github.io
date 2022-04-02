@@ -54,7 +54,7 @@ sections:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#https://github.com/jaivinjacob/Python'
+        url: https://github.com/jaivinjacob/Python
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
