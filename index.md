@@ -18,7 +18,7 @@ sections:
         url: '#services'
         class: btn-light
 
-  - type: services.html
+  - type: contact.html
     section_id: services
     #background_style: bg-info
     title: My Projects
