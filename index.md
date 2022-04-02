@@ -18,13 +18,13 @@ sections:
         url: '#services'
         class: btn-light
 
-  - type: service.html
+  - type: services.html
     section_id: services
     #background_style: bg-info
     title: My Projects
     services:
       - title: Whatsapp Automation Using Python
-        text: Read and reply to messages in whatsapp easily, integrated with chatbot to make conversation on your behalf.ok
+        text: Read and reply to messages in whatsapp easily, integrated with chatbot to make conversation on your behalf.
         icon: fa-whatsapp
       - title: Ready to Ship
         text: You can use this theme as is, or you can make changes!
