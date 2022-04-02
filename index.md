@@ -49,7 +49,7 @@ sections:
     #background_style: bg-dark
     projects:
       - title: Whatsapp Automation Using Python
-        text: Read and reply to messages in whatsapp easily, integrated with chatbot to make conversation on your behalf.
+        text: Read and reply to messages in whatsapp easily, integrated with chatbot to make conversation on your behalf. updated.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
