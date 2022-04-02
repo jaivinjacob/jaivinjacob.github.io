@@ -25,7 +25,7 @@ sections:
     services:
       - title: Whatsapp Automation Using Python
         text: Read and reply to messages in whatsapp easily, integrated with chatbot to make conversation on your behalf.
-        image: assets/icons/whatsapp_logo.png
+        image: <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
         url: https://github.com/jaivinjacob/Python
       - title: Ready to Ship
         text: You can use this theme as is, or you can make changes!
