@@ -34,10 +34,10 @@ sections:
         icon: fa-laptop-code
       - title: Data Analysis
         text: Experienced in preparation, cleaning and labelling of structured and unstructured data
-        icon: fa-bar-chart
+        icon: fa-bar-chart-o
       - title: Communication and Presentation
         text: Well versed in communicating ideas to others along with visual representations
-        icon: fa-commenting 
+        icon: fa-commenting-o
       - title: 3D - Animation
         text: Why not be a bit more creative. Started of with Unity, currently exploring Blender and Unreal Engine
         icon: fa-magic
