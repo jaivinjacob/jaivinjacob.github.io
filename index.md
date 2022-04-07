@@ -68,7 +68,7 @@ sections:
     actions:
       - image: assets/img/members/lmcst-logo.jpg
         title: >+
-          2016-2020     
+          2016-2020 <br> 
           **Lourdes Matha College of Science & Technology**
         text: >-
           Completed BTech, With lot of joy and knowledge the vibrant campus packed me with enthusiasm
