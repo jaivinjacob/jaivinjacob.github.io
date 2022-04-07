@@ -68,7 +68,7 @@ sections:
     actions:
       - image: assets/img/members/lmcst-logo.jpg
         title: >+
-          2016-2020
+          2016-2020     
           **Lourdes Matha College of Science & Technology**
         text: >-
           Completed BTech, With lot of joy and knowledge the vibrant campus packed me with enthusiasm
@@ -80,7 +80,7 @@ sections:
           Gained handson experience in ML and ignited my passion towards data science
       - image: assets/img/members/tcs-logo.png
         title: >+
-          January 2020 - Present
+          January 2020 - Present     
           **Tata Consultancy Services**
         text: >-
           Horned my skills, acquired new ones and moreover shaped me into a better professional
