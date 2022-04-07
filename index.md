@@ -54,19 +54,19 @@ sections:
       - title: Gary D. Stevens
         text: Bass guitar.
         image: assets/img/members/person2.jpg
-        url: '#'
+        url: '#https://github.com/jaivinjacob/Whatsapp_Automation'
       - title: Devon J. Fletcher
         text: Lead guitar.
         image: assets/img/members/person3.jpg
-        url: '#'
+        url: 'https://github.com/jaivinjacob/Whatsapp_Automation'
       - title: Todd E. Anderson
         text: Drums, percussion.
         image: assets/img/members/person5.jpg
-        url: '#'
+        url: 'https://www.myvi.in/account/login'
       - title: Daniel T. Riley
         text: Musician, songwriter, producer.
         image: assets/img/members/person6.jpg
-        url: '#'
+        url: https://www.myvi.in/account/login
       - title: Ella P. Walter
         text: PR.
         image: assets/img/members/person7.jpg
