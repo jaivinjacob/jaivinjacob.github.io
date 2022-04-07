@@ -62,24 +62,23 @@ sections:
 
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: My History
     background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
+    last_image: assets/img/members/tcs-logo.png
+    title: **Tata Consultancy Services**
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
+      - image: assets/img/members/lmcst-logo.jpg
         title: >+
-          2017-2018
-          **Humble Beginnings**
+          2016-2020
+          **Lourdes Matha College of Science & Technology**
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
+          Completed BTech, With lot of joy and knowledge the vibrant campus packed me with enthusiasm
+      - image: assets/img/members/innoneur-logo.jpg
         title: >+
-          November 2019
-          An Coaching started
+          November - December, 2020
+          **Innoneur IT Ventures**
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+          Gained handson experience in ML and ignited my passion towards data science
 
   - type: contact.html
     section_id: contacts
