@@ -78,7 +78,7 @@ sections:
           **Innoneur IT Ventures**
         text: >-
           Gained handson experience in ML and ignited my passion towards data science
-      - image: assets/img/members/tcs-logo.jpg
+      - image: assets/img/members/tcs-logo.png
         title: >+
           November - January 2020 - Present
           **Tata Consultancy Services**
