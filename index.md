@@ -92,7 +92,7 @@ sections:
       Got any suggestions or wanna have a casual chat. Feel free to poke me :)
     actions:
     - title: +91 7025551327
-      icon: fa-phone
+      icon: fa-whatsapp
     - title: E-Mail
       icon: fa-envelope
       url: jaivinjacobvj@gmail.com
