@@ -21,26 +21,26 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: My Projects
+    title: My Skills/Interests
     services:
-      - title: Whatsapp Automation Using Python
-        text: Read and reply to messages in whatsapp easily, integrated with chatbot to make conversation on your behalf.
-        icon: fa-whatsapp
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: Machine Learning
+        text: Predictive and classification model building to solve real life problems
+        icon: fa-puzzle-piece 
+      - title: Cloud Engineering
+        text: Certified Azure Architect Expert, also experienced with AWS
+        icon: fa-cloud
+      - title: Python Programming
+        text: Golden tool under my belt, that I use to give life to my ideas
         icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+      - title: Data Analysis
+        text: Experienced in preparation, cleaning and labelling of structured and unstructured data
+        icon: fa-bar-chart
+      - title: Communication and Presentation
+        text: Well versed in communicating ideas to others along with visual representations
+        icon: fa-commenting 
+      - title: 3D - Animation
+        text: Why not be a bit more creative. Started of with Unity, currently exploring Blender and Unreal Engine
+        icon: fa-magic
 
   - type: members.html
     section_id: members
