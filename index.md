@@ -49,8 +49,8 @@ sections:
     members:
       - title: Whatsapp Automation
         text: Read and reply to whatsapp messages in an automated way
-        image: assets/img/members/person1.jpg
-        url: 'https://github.com/jaivinjacob/Whatsapp_Automation'
+        image: assets/img/members/whatsapp-img.jpg
+        url: https://github.com/jaivinjacob/Whatsapp_Automation
       - title: Gary D. Stevens
         text: Bass guitar.
         image: assets/img/members/person2.jpg
