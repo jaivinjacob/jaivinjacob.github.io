@@ -108,10 +108,10 @@ sections:
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
-      url: '#'
+      url: https://www.myvi.in/account/login
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
-      url: '#'
+      url: 'https://www.myvi.in/account/login'
 
 ---
