@@ -34,7 +34,8 @@ sections:
         icon: fa-laptop-code
       - title: Data Analysis
         text: Experienced in preparation, cleaning and labelling of structured and unstructured data
-        icon: fa-magic
+        icon: fa-bar-chart
+        icon_type: fab
       - title: Communication and Presentation
         text: Well versed in communicating ideas to others along with visual representations
         icon: fa-podcast
