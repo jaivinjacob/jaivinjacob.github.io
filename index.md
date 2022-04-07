@@ -51,7 +51,7 @@ sections:
         text: Read and reply to whatsapp messages in an automated way
         image: assets/img/members/whatsapp-img.jpg
         url: "https://github.com/jaivinjacob/Whatsapp_Automation"
-      - title: Unity Game
+      - title: Unity RPG Game
         text: A simple rpg game that is developed using unity and C#
         image: assets/img/members/unity-game-dev.jpg
         url: 'https://github.com/jaivinjacob/Unity_First_Person_Game'
@@ -80,7 +80,7 @@ sections:
           Gained handson experience in ML and ignited my passion towards data science
       - image: assets/img/members/tcs-logo.png
         title: >+
-          January 2020 - Present     
+          January 2020 - Present <br>   
           **Tata Consultancy Services**
         text: >-
           Horned my skills, acquired new ones and moreover shaped me into a better professional
