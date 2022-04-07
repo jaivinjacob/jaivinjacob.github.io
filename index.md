@@ -14,7 +14,7 @@ sections:
     title: Hi, I'm Jaivin Jacob
     text: An enthusiastic Computer Engineer fuelled by a creative mind and human-like coding skills. Besides keeping myself updated with the recent technologies, I always try to learn new skills. On a venture to do my bit to change the world into a better place with the humble skill set I possess.
     actions:
-      - title: Explore My Works
+      - title: Explore More
         url: '#services'
         class: btn-light
 
