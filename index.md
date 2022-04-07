@@ -78,7 +78,7 @@ sections:
           **Innoneur IT Ventures**
         text: >-
           Gained handson experience in ML and ignited my passion towards data science
-      - image: assets/img/members/innoneur-logo.jpg
+      - image: assets/img/members/tcs-logo.jpg
         title: >+
           November - January 2020 - Present
           **Tata Consultancy Services**
@@ -97,7 +97,7 @@ sections:
       icon: fa-envelope
       url: jaivinjacobvj@gmail.com
     - title: LinkdIn
-      icon: fa-linkedin-square
+      icon: fa-linkedin
       icon_type: fab
       url: https://www.linkedin.com/in/jaivin-jacob-036096151/
 
