@@ -65,7 +65,6 @@ sections:
     title: My History
     background_style: bg-dark text-primary
     last_image: assets/img/members/tcs-logo.png
-    title: **Tata Consultancy Services**
     actions:
       - image: assets/img/members/lmcst-logo.jpg
         title: >+
