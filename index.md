@@ -64,6 +64,7 @@ sections:
     section_id: timeline
     title: My Journey
     background_style: bg-dark text-primary
+    last_image: assets/img/members/tcs-logo.png
     actions:
       - image: assets/img/members/lmcst-logo.jpg
         title: >+
@@ -71,6 +72,12 @@ sections:
           **Lourdes Matha College of Science & Technology**
         text: >-
           Completed BTech, With lot of joy and knowledge the vibrant campus packed me with enthusiasm
+      - image: assets/img/members/innoneur-logo.jpg
+        title: >+
+          November - December, 2020
+          **Innoneur IT Ventures**
+        text: >-
+          Gained handson experience in ML and ignited my passion towards data science
       - image: assets/img/members/innoneur-logo.jpg
         title: >+
           November - December, 2020
