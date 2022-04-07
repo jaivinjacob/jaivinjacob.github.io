@@ -83,7 +83,7 @@ sections:
           January 2020 - Present
           **Tata Consultancy Services**
         text: >-
-          Horned my skills, acquired new one and moreover shaped me into a better professional
+          Horned my skills, acquired new ones and moreover shaped me into a better professional
 
   - type: contact.html
     section_id: contacts
