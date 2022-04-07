@@ -5,13 +5,11 @@
 header:
 - title: About
   url: https://jaivinjacob.github.io/#about
-- title: Projects
-  url: https://jaivinjacob.github.io/#members
 - title: Skills
   url: https://jaivinjacob.github.io/#services
- - title: History
-   url: https://jaivinjacob.github.io/#timeline
+- title: Project
+  url: https://jaivinjacob.github.io/#members
+- title: History
+  url: https://jaivinjacob.github.io/#timeline
 - title: Contacts
   url: https://jaivinjacob.github.io/#contacts
-# - title: Links
-#   url: /links
