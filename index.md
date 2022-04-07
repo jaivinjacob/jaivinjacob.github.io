@@ -80,7 +80,7 @@ sections:
           Gained handson experience in ML and ignited my passion towards data science
       - image: assets/img/members/tcs-logo.png
         title: >+
-          November - January 2020 - Present
+          January 2020 - Present
           **Tata Consultancy Services**
         text: >-
           Horned my skills, acquired new one and moreover shaped me into a better professional
