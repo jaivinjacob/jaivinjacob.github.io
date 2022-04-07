@@ -51,26 +51,14 @@ sections:
         text: Read and reply to whatsapp messages in an automated way
         image: assets/img/members/whatsapp-img.jpg
         url: "https://github.com/jaivinjacob/Whatsapp_Automation"
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#https://github.com/jaivinjacob/Whatsapp_Automation'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
+      - title: Unity Game
+        text: A simple rpg game that is developed using unity and C#
+        image: assets/img/members/unity-game-dev.jpg
+        url: 'https://github.com/jaivinjacob/Unity_First_Person_Game'
+      - title: ML & Python Projects
+        text: Will be updating soon
+        image: assets/img/members/ml-projects.jpg
         url: 'https://github.com/jaivinjacob/Whatsapp_Automation'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: 'https://www.myvi.in/account/login'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: https://www.myvi.in/account/login
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
 
   - type: timeline.html
     section_id: timeline
