@@ -6,11 +6,11 @@ header:
 - title: About
   url: https://jaivinjacob.github.io/#about
 - title: Projects
-  url: https://jaivinjacob.github.io/#services
-- title: Interests
   url: https://jaivinjacob.github.io/#members
-# - title: History
-#   url: https://jaivinjacob.github.io/#timeline
+- title: Skills & Interests
+  url: https://jaivinjacob.github.io/#services
+ - title: Work History
+   url: https://jaivinjacob.github.io/#timeline
 - title: Contacts
   url: https://jaivinjacob.github.io/#contacts
 # - title: Links
