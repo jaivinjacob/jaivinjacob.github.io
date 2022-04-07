@@ -80,30 +80,25 @@ sections:
           Gained handson experience in ML and ignited my passion towards data science
       - image: assets/img/members/innoneur-logo.jpg
         title: >+
-          November - December, 2020
-          **Innoneur IT Ventures**
+          November - January 2020 - Present
+          **Tata Consultancy Services**
         text: >-
-          Gained handson experience in ML and ignited my passion towards data science
+          Horned my skills, acquired new one and moreover shaped me into a better professional
 
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Got any suggestions or wanna have a casual chat. Feel free to poke me :)
     actions:
-    - title: +1 (202) 555-014
+    - title: +91 7025551327
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: fa-twitter
+      url: jaivinjacobvj@gmail.com
+    - title: LinkdIn
+      icon: fa-linkedin-square
       icon_type: fab
-      url: https://www.myvi.in/account/login
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: 'https://www.myvi.in/account/login'
+      url: https://www.linkedin.com/in/jaivin-jacob-036096151/
 
 ---
