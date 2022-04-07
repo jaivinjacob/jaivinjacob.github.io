@@ -37,7 +37,7 @@ sections:
         icon: fa-magic
       - title: Communication and Presentation
         text: Well versed in communicating ideas to others along with visual representations
-        icon: fa-commenting-o
+        icon: fa-podcast
       - title: 3D - Animation
         text: Why not be a bit more creative. Started of with Unity, currently exploring Blender and Unreal Engine
         icon: fa-film
