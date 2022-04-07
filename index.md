@@ -64,7 +64,7 @@ sections:
     section_id: timeline
     title: My Journey
     background_style: bg-dark text-primary
-    last_image: assets/img/members/tcs-logo.png
+    last_image: assets/img/members/work-now.jpg
     actions:
       - image: assets/img/members/lmcst-logo.jpg
         title: >+
