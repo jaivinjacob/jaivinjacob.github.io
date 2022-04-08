@@ -98,9 +98,8 @@ sections:
     - title: +91 7025551327
       icon: fa-whatsapp
       icon_type: fab
-    - title: E-Mail
+    - title: jaivinjacobvj@gmail.com
       icon: fa-envelope
-      url: jaivinjacobvj@gmail.com
     - title: LinkdIn
       icon: fa-linkedin
       icon_type: fab
