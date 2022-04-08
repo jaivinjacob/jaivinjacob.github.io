@@ -53,8 +53,12 @@ sections:
         url: "https://github.com/jaivinjacob/Whatsapp_Automation"
       - title: Unity RPG Game
         text: A simple rpg game that is developed using unity and C#
-        image: assets/img/members/unity-game-dev.jpg
+        image: assets/img/members/game-dev.jpg
         url: 'https://github.com/jaivinjacob/Unity_First_Person_Game'
+      - title: Blender Animations
+        text: Couple of my recent blender works - Still learning
+        image: assets/img/members/Blender-3d.png
+        url: 'https://www.youtube.com/channel/UCp1WyDydEC3gQYUz5WN4vGw'
       - title: ML & Python Projects
         text: Will be updating soon
         image: assets/img/members/ml-projects.jpg
